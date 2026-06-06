@@ -16,6 +16,11 @@
 
 <br/>
 
+# Hi, I'm Huy Hoàng! ✌️
+> *Coding is more than a skill—it's my passion and my job. 🚀*
+
+<br/>
+
 ## 🌟 Giới thiệu nhanh
 
 **Fresher Full-Stack Developer** tập trung vào Java Spring Boot và React, đam mê xây dựng các ứng dụng web hiệu quả và có khả năng mở rộng. 
