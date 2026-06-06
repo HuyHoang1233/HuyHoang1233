@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./chess-header.svg" alt="header" />
+  <img src="./volleyball-animated-header.svg" alt="header" />
 </div>
 
 <div align="center">
