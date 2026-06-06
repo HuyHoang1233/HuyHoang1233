@@ -16,7 +16,7 @@
 
 <br/>
 
-# Hi, I'm Huy Hoàng! ✌️
+# Hi, I'm Huy Hoàng! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > *Coding is more than a skill—it's my passion and my job. 🚀*
 
 <br/>
