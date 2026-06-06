@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D4AF37&width=500&lines=Hi,+I'm+Huy+Hoàng!+✌️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D4AF37&width=500&lines=Hi,%20I'm%20Huy%20Ho%C3%A0ng!%20%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 > *Coding is more than a skill—it's my passion and my job. 🚀*
