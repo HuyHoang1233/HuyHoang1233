@@ -1,12 +1,17 @@
 <div align="center">
-  <img src="./banner.svg" alt="header" />
+  <img src="./chess-header.svg" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/HuyHoang1233">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/@HuyHoang1233-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HuyHoang1233&label=Profile%20Views&color=yellow&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="mailto:hoangchanelqbvn@gmail.com">
+    <img src="https://img.shields.io/badge/hoangchanelqbvn@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HuyHoang1233&label=Profile%20Views&color=yellow&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
