@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Huy%20Hoàng&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20React&descAlignY=55&descAlign=50" alt="header" />
+  <img src="./banner.svg" alt="header" />
 </div>
 
 <div align="center">
