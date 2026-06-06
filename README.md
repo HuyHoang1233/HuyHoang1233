@@ -40,7 +40,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuyHoang1233&theme=radical&row=1&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Commits-100+-D4AF37?style=for-the-badge&logo=git&logoColor=white" alt="Trophies" /> &nbsp; <img src="https://img.shields.io/badge/PRs_Merged-10+-D4AF37?style=for-the-badge&logo=github&logoColor=white" alt="Trophies" /> &nbsp; <img src="https://img.shields.io/badge/Streak-15_days-D4AF37?style=for-the-badge&logo=fire&logoColor=white" alt="Trophies" />
 </div>
 
 <br/>
@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuyHoang1233&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyHoang1233&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-eta-six-90.vercel.app/api?username=HuyHoang1233&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-six-90.vercel.app/api/top-langs/?username=HuyHoang1233&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 <br/>
